@@ -1,0 +1,7 @@
+payload:
+  # > f5
+  - DOMAIN,*.f5.com
+  - DOMAIN,*.*.f5.com
+  - DOMAIN,*.*.*.amazonaws.com
+  - DOMAIN,wap.xbiqugu.net
+  - DOMAIN,m.bqduo.com
